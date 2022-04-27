@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dm2e="http://onto.dm2e.eu/schemas/dm2e/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:korbo="http://purl.org/net7/korbo/vocab#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:pro="http://purl.org/spar/pro/" xmlns:rdaGr2="http://RDVocab.info/ElementsGr2/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<ore:Aggregation rdf:about="https://teo.skanzen.hu/web/index.php?karton=281197">
+<edm:aggregatedCHO rdf:resource="https://teo.skanzen.hu/web/index.php?karton=281197"/>
+<edm:dataProvider xml:lang="hu">Szentendrei Szabadtéri Néprajzi Múzeum</edm:dataProvider>
+<edm:provider xml:lang="hu">DigiPhil</edm:provider>
+<edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=281197"/>
+<edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=281197"/>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+</ore:Aggregation>
+<edm:ProvidedCHO rdf:about="https://teo.skanzen.hu/web/index.php?karton=281197">
+<dc:title xml:lang="hu">Fák és bokrok a falu körül</dc:title>
+<dc:description>Fák és bokrok a falu körül</dc:description>
+<dc:creator/>
+<dcterms:created>2003.</dcterms:created>
+<dc:subject rdf:resource="http://vocab.getty.edu/aat/300128371"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300046300"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300127173"/>
+<dc:subject>Szenna</dc:subject>
+<dc:subject>Fák és bokrok a falu körül</dc:subject>
+<dcterms:spatial>Szenna</dcterms:spatial>
+<dcterms:extent>1 piece</dcterms:extent>
+<dcterms:extent>24 cm</dcterms:extent>
+<dcterms:extent>36 cm</dcterms:extent>
+<edm:currentLocation rdf:resource="http://viaf.org/viaf/153114901"/>
+<dcterms:isPartOf>Fotótár</dcterms:isPartOf>
+<dc:identifier>MNÉA-F 73064</dc:identifier>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="https://teo.skanzen.hu/web/index.php?karton=281197">
+<dc:format xml:lang="en">text/html</dc:format>
+</edm:WebResource>
+<edm:Agent rdf:about="http://digiphil.hu/">
+<skos:prefLabel>DigiPhil</skos:prefLabel>
+<skos:note>Provider</skos:note>
+</edm:Agent>
+<edm:Agent rdf:about="http://viaf.org/viaf/153114901">
+<skos:prefLabel>Szentendrei Szabadtéri Néprajzi Múzeum</skos:prefLabel>
+<skos:note>Data Provider</skos:note>
+</edm:Agent>
+<edm:Place rdf:about="https://www.wikidata.org/wiki/Q665495">
+<wgs84_pos:lat>46.3078082624921</wgs84_pos:lat>
+<wgs84_pos:long>17.7325605501375</wgs84_pos:long>
+<skos:prefLabel>Szenna</skos:prefLabel>
+</edm:Place>
+</rdf:RDF>

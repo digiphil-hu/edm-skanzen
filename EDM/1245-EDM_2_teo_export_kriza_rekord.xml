@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dm2e="http://onto.dm2e.eu/schemas/dm2e/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:korbo="http://purl.org/net7/korbo/vocab#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:pro="http://purl.org/spar/pro/" xmlns:rdaGr2="http://RDVocab.info/ElementsGr2/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<ore:Aggregation rdf:about="https://teo.skanzen.hu/web/index.php?karton=330346">
+<edm:aggregatedCHO rdf:resource="https://teo.skanzen.hu/web/index.php?karton=330346"/>
+<edm:dataProvider xml:lang="hu">Szentendrei Szabadtéri Néprajzi Múzeum</edm:dataProvider>
+<edm:provider xml:lang="hu">DigiPhil</edm:provider>
+<edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=330346"/>
+<edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=330346"/>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+</ore:Aggregation>
+<edm:ProvidedCHO rdf:about="https://teo.skanzen.hu/web/index.php?karton=330346">
+<dc:title xml:lang="hu">Bathianeum-kapu</dc:title>
+<dc:creator>Szabó Tamás</dc:creator>
+<dcterms:created>1993</dcterms:created>
+<dc:subject rdf:resource="http://vocab.getty.edu/aat/300128371"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300046300"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300128347"/>
+<dcterms:spatial>Gyulafehérvár</dcterms:spatial>
+<dcterms:extent>5,5 cm</dcterms:extent>
+<dcterms:extent>5,5 cm</dcterms:extent>
+<edm:currentLocation rdf:resource="http://viaf.org/viaf/153114901"/>
+<dcterms:isPartOf>Kriza gyűjtemény</dcterms:isPartOf>
+<dc:identifier>MNÉA-K 6858</dc:identifier>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="https://teo.skanzen.hu/web/index.php?karton=330346">
+<dc:format xml:lang="en">text/html</dc:format>
+</edm:WebResource>
+<edm:Agent rdf:about="http://digiphil.hu/">
+<skos:prefLabel>DigiPhil</skos:prefLabel>
+<skos:note>Provider</skos:note>
+</edm:Agent>
+<edm:Agent rdf:about="http://viaf.org/viaf/153114901">
+<skos:prefLabel>Szentendrei Szabadtéri Néprajzi Múzeum</skos:prefLabel>
+<skos:note>Data Provider</skos:note>
+</edm:Agent>
+<edm:Place rdf:about="https://wikidata.org/wiki/Q174665">
+<wgs84_pos:lat>46.0728757291124</wgs84_pos:lat>
+<wgs84_pos:long>23.5645300581854</wgs84_pos:long>
+<skos:prefLabel>Gyulafehérvár</skos:prefLabel>
+</edm:Place>
+</rdf:RDF>

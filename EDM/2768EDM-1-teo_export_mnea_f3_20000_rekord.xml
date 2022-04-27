@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dm2e="http://onto.dm2e.eu/schemas/dm2e/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:korbo="http://purl.org/net7/korbo/vocab#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:pro="http://purl.org/spar/pro/" xmlns:rdaGr2="http://RDVocab.info/ElementsGr2/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<ore:Aggregation rdf:about="https://teo.skanzen.hu/web/index.php?karton=226863">
+<edm:aggregatedCHO rdf:resource="https://teo.skanzen.hu/web/index.php?karton=226863"/>
+<edm:dataProvider xml:lang="hu">Szentendrei Szabadtéri Néprajzi Múzeum</edm:dataProvider>
+<edm:provider xml:lang="hu">DigiPhil</edm:provider>
+<edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=226863"/>
+<edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=226863"/>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+</ore:Aggregation>
+<edm:ProvidedCHO rdf:about="https://teo.skanzen.hu/web/index.php?karton=226863">
+<dc:title xml:lang="hu">Lakóház bontása.</dc:title>
+<dc:description>Széchényi u. 32. Lakóház bontása. Az udvari hosszú homlokzat 72 és 71-es függőleges oszlopai, valamint a 78 és 79 ablakok. Meghatározó: Loszmann Ágnes.</dc:description>
+<dc:creator>Flórián Mária</dc:creator>
+<dcterms:created>1973</dcterms:created>
+<dc:subject rdf:resource="http://vocab.getty.edu/aat/300128371"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300046300"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300128343"/>
+<dc:subject>lakóház bontása</dc:subject>
+<dc:subject>bontási állapot</dc:subject>
+<dc:subject>tetőszerkezet</dc:subject>
+<dc:subject>koszorúgerenda csomópont</dc:subject>
+<dc:subject>kibontott füstjárat</dc:subject>
+<dc:subject>kemenceszáj</dc:subject>
+<dc:subject>kéményalj</dc:subject>
+<dc:subject>kisablak</dc:subject>
+<dc:subject>szarufás tetőszerkezet</dc:subject>
+<dc:subject>torokgerenda</dc:subject>
+<dc:subject>kontyolt nyeregtető</dc:subject>
+<dc:subject>födémgerendák kibontása</dc:subject>
+<dc:subject>bejárati ajtó</dc:subject>
+<dc:subject>szobafal</dc:subject>
+<dc:subject>falkutatás</dc:subject>
+<dc:subject>falmaradvány</dc:subject>
+<dc:subject>vályog szabadkémény</dc:subject>
+<dc:subject>vályogtűzhely</dc:subject>
+<dc:subject>pitvarbelső</dc:subject>
+<dc:subject>pitvarajtó</dc:subject>
+<dc:subject>döngölt föld</dc:subject>
+<dc:subject>párnafa</dc:subject>
+<dc:subject>tetőszerkezet</dc:subject>
+<dc:subject>vaspántos</dc:subject>
+<dc:subject>ereszdeszka</dc:subject>
+<dc:subject>tetőszerkezet</dc:subject>
+<dc:subject>tetőszerkezet</dc:subject>
+<dc:subject>pórfödém</dc:subject>
+<dc:subject>födémtapasztás</dc:subject>
+<dc:subject>hosszú homlokzat</dc:subject>
+<dc:subject>ajtókeret kibontása</dc:subject>
+<dc:subject>szemöldökfa</dc:subject>
+<dc:subject>utcai ablak</dc:subject>
+<dc:subject>talpfák találkozása</dc:subject>
+<dc:subject>vízvető</dc:subject>
+<dc:subject>hátsó hosszú homlokzat</dc:subject>
+<dc:subject>padlásfeljáró</dc:subject>
+<dc:subject>lécezett szarufák</dc:subject>
+<dc:subject>talpgerenda csapolás</dc:subject>
+<dc:subject>falbontás</dc:subject>
+<dc:subject>ajtótok</dc:subject>
+<dc:subject>szállítás előkészítése</dc:subject>
+<dc:subject>Karancskeszi</dc:subject>
+<dcterms:spatial>Karancskeszi</dcterms:spatial>
+<dcterms:spatial>Karancskeszi, Széchenyi u. 32.</dcterms:spatial>
+<dcterms:extent>1 piece</dcterms:extent>
+<dcterms:extent>6 cm</dcterms:extent>
+<dcterms:extent>6 cm</dcterms:extent>
+<edm:currentLocation rdf:resource="http://viaf.org/viaf/153114901"/>
+<dcterms:isPartOf>Fotótár</dcterms:isPartOf>
+<dc:identifier>MNÉA-F 21548</dc:identifier>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="https://teo.skanzen.hu/web/index.php?karton=226863">
+<dc:format xml:lang="en">text/html</dc:format>
+</edm:WebResource>
+<edm:Agent rdf:about="http://digiphil.hu/">
+<skos:prefLabel>DigiPhil</skos:prefLabel>
+<skos:note>Provider</skos:note>
+</edm:Agent>
+<edm:Agent rdf:about="http://viaf.org/viaf/153114901">
+<skos:prefLabel>Szentendrei Szabadtéri Néprajzi Múzeum</skos:prefLabel>
+<skos:note>Data Provider</skos:note>
+</edm:Agent>
+<edm:Agent rdf:about="https://resolver.pim.hu/auth/PIM118734">
+<skos:prefLabel>Flórián Mária</skos:prefLabel>
+</edm:Agent>
+<edm:Place rdf:about="https://www.wikidata.org/wiki/Q247015">
+<wgs84_pos:lat>48.1625721122242</wgs84_pos:lat>
+<wgs84_pos:long>19.7013980180544</wgs84_pos:long>
+<skos:prefLabel>Karancskeszi</skos:prefLabel>
+</edm:Place>
+</rdf:RDF>

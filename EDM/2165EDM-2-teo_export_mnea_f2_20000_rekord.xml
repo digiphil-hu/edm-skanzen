@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=215502"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=215502"/>
@@ -19,8 +19,7 @@
   <dc:description>
    Harangláb. A falu szélén állt. A katolikus kisebbség állította  1904-ben a református ormánsági faluban. Azóta a sellei tájház udvarába telepítették át. Meghatározó: Loszmann Ágnes.
   </dc:description>
-  <dc:creator>
-   Zentai Tünde
+  <dc:creator rdf:resource="https://resolver.pim.hu/auth/PIM124626">
   </dc:creator>
   <dcterms:created>
    1972
@@ -62,14 +61,6 @@
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum

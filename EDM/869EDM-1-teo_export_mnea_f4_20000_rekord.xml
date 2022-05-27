@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=248073"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=248073"/>
@@ -19,8 +19,7 @@
   <dc:description>
    Vörösmarty u 27. 1907-ben épült előtornácos lakóház deszkaoromzattal. Meghatározó: Fonódi Jánosné.
   </dc:description>
-  <dc:creator>
-   H. Csukás Györgyi
+  <dc:creator rdf:resource="https://resolver.pim.hu/auth/PIM648315">
   </dc:creator>
   <dcterms:created>
    1986
@@ -77,14 +76,6 @@
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum

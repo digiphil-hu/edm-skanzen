@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=214105"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=214105"/>
@@ -19,8 +19,7 @@
   <dc:description>
    Szoba-konyha homlokzatrész. Külső tokra szerelt kétszárnyú, 4 szemű, kifelé nyíló ablak, téglával befalazott szobaajtó körvonala, konyhába nyíló, fent üvegezett ajtó / újabb keletű/, fölötte két korból /befalazott/ szellőző nyílások, ablaknyílás. Bent tol Meghatározó: Loszmann Ágnes.
   </dc:description>
-  <dc:creator>
-   Vákár Tibor
+  <dc:creator rdf:resource="https://resolver.pim.hu/auth/PIM73935">
   </dc:creator>
   <dcterms:created>
    1971
@@ -68,14 +67,6 @@
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum

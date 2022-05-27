@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=313352"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=313352"/>
@@ -60,14 +60,6 @@ Poltrak terület holland hatású szélmalma Gyűjtő: Janovich István. Meghat�
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum

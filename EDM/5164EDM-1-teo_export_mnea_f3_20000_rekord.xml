@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=229253"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=229253"/>
@@ -19,8 +19,7 @@
   <dc:description>
    Bad-Goiserni Szabadtéri Múzeum épületei Az úgynevezett Anzenaumühle mellett felállított istállós csűr - egy eredeti épület másolata. Meghatározó: Loszmann Ágnes.
   </dc:description>
-  <dc:creator>
-   Balassa M. Iván
+  <dc:creator rdf:resource="https://resolver.pim.hu/auth/PIM43038">
   </dc:creator>
   <dcterms:created>
    1974
@@ -79,14 +78,6 @@
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum

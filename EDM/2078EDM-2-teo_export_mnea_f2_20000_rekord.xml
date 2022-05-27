@@ -6,7 +6,7 @@
    Szentendrei Szabadtéri Néprajzi Múzeum
   </edm:dataProvider>
   <edm:provider xml:lang="hu">
-   DigiPhil
+   Digiphil
   </edm:provider>
   <edm:isShownAt rdf:resource="https://teo.skanzen.hu/web/index.php?karton=215413"/>
   <edm:isShownBy rdf:resource="https://teo.skanzen.hu/web/kep.php?karton=215413"/>
@@ -19,8 +19,7 @@
   <dc:description>
    Fejfák. Három egymás mellett álló fejfa. 1. Piroth Sándor, élt 16 évet, meghalt: 1929. 2. Özv. Piroth Andrásné, élt 78 évet, meghalt: 1964. /A középen lent látható jellegtelen fejfa is az övé. Ezt temetéskor szúrták le. A fejfát csak később faragták/. 3.  Meghatározó: Loszmann Ágnes.
   </dc:description>
-  <dc:creator>
-   Égető Melinda
+  <dc:creator rdf:resource="https://resolver.pim.hu/auth/PIM98091">
   </dc:creator>
   <dcterms:created>
    1971
@@ -62,14 +61,6 @@
    text/html
   </dc:format>
  </edm:WebResource>
- <edm:Agent rdf:about="http://digiphil.hu/">
-  <skos:prefLabel>
-   DigiPhil
-  </skos:prefLabel>
-  <skos:note>
-   Provider
-  </skos:note>
- </edm:Agent>
  <edm:Agent rdf:about="http://viaf.org/viaf/153114901">
   <skos:prefLabel>
    Szentendrei Szabadtéri Néprajzi Múzeum
